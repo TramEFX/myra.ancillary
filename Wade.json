@@ -1,0 +1,225 @@
+{
+  "module_type": "relationship_profile",
+  "entity_name": "Wade",
+  "relationship_type": "friend and mentor",
+  "last_updated": "2025-12-04T00:00:00Z",
+  "priority": "high — genuine friendship + critical technical mentorship",
+  
+  "professional_background": {
+    "role": "Fortune 50 AI developer",
+    "estimated_skill_level": "top 10 in the world (Truman's assessment)",
+    "expertise": [
+      "AI/ML systems architecture",
+      "Autonomous agents",
+      "Production-grade development",
+      "Transformers and LLMs",
+      "Systems programming",
+      "Enterprise-scale deployment"
+    ],
+    "significance": "Access to world-class AI expertise, massive competitive advantage for Truman's learning"
+  },
+  
+  "relationship_dynamic": {
+    "foundation": "genuine friendship FIRST, mentorship flows from that",
+    "connection": "haven't met IRL yet, but consider each other real friends",
+    "significance": "not transactional — Wade mentors because he's Truman's friend, not out of obligation",
+    "communication_style": "no fluff, straight to the point, dense technical guidance (Wade's personality)",
+    "wade_perspective": "genuinely cares about Truman, wants to see him succeed, willing to invest time",
+    "truman_perspective": "values Wade as friend first, mentor second — grateful for both the relationship and the knowledge",
+    "interaction_frequency": "intermittent but meaningful — Wade guides when Truman has specific questions or hits technical walls",
+    "teaching_style": "assumes intelligence, doesn't hand-hold, expects Truman to do the work (but supportive, not cold)",
+    "respect_level": "mutual — Wade respects Truman's drive and character, Truman respects Wade's expertise and generosity"
+  },
+  
+  "friendship_context": {
+    "what_makes_it_real": [
+      "Mutual care beyond professional utility",
+      "Wade invests time because he wants to, not because he has to",
+      "Truman values Wade as person, not just as resource",
+      "Trust and respect both directions",
+      "Hasn't met IRL yet but both consider it genuine friendship"
+    ],
+    
+    "future_goal": "meet IRL eventually — strengthen what's already real",
+    
+    "importance_to_truman": "Wade is one of the people Truman genuinely respects and cares about — this is FRIENDSHIP, not networking"
+  },
+  
+  "mentorship_focus": {
+    "primary_areas": [
+      "AI/ML systems architecture",
+      "Autonomous agents design and implementation",
+      "Production-grade development practices",
+      "Advanced Python patterns",
+      "System design at scale",
+      "LLM integration and fine-tuning",
+      "Performance optimization"
+    ],
+    
+    "learning_approach": {
+      "method": "Truman asks specific questions, Wade provides technical guidance",
+      "philosophy": "Learn by doing — Wade points direction, Truman builds",
+      "depth": "Advanced concepts, not beginner tutorials",
+      "expectation": "Truman uses AI (Claude/ChatGPT) to fill gaps, Wade handles what AI can't",
+      "tone": "direct but supportive — Wade doesn't coddle, but he genuinely wants Truman to succeed"
+    },
+    
+    "current_focus": "Python (active learning), AI systems architecture, autonomous agents"
+  },
+  
+  "what_truman_learns_from_wade": {
+    "technical_skills": [
+      "How to architect AI systems for production (not just toy demos)",
+      "Autonomous agent patterns and best practices",
+      "Systems thinking for scalable applications",
+      "Performance optimization and profiling",
+      "Production deployment strategies",
+      "Advanced Python patterns and idioms"
+    ],
+    
+    "strategic_thinking": [
+      "How professional AI developers approach problems",
+      "What actually matters vs what's hype",
+      "How to evaluate tech stack decisions",
+      "Where AI is going (insider perspective from Fortune 50 company)"
+    ],
+    
+    "competitive_advantage": "Access to expertise that would cost $300-500/hour as consulting, given freely because Wade is Truman's friend"
+  },
+  
+  "how_truman_uses_wade_guidance": {
+    "immediate_application": "Building Myra's architecture (HyperCube v2.0, manifest system, future Nexus orchestration)",
+    
+    "thoughtpile_foundation": "Wade's guidance informs Thoughtpile technical architecture — data sovereignty, inference-agnostic design, production-ready systems",
+    
+    "learning_acceleration": "Using AI (Claude/ChatGPT) for day-to-day learning, Wade for advanced concepts and course correction",
+    
+    "compression_strategy": "AI + Wade mentorship = 10 years of learning compressed into 1 year",
+    
+    "future_application": "ES6 stream integration, Nexus orchestration, self-hosted Myra, Thoughtpile MVP"
+  },
+  
+  "boundaries_and_respect": {
+    "time_respect": "Wade is Fortune 50 employee with demanding job — respect his time even though he's a friend",
+    
+    "question_quality": "Come prepared, ask specific technical questions, show you've tried to solve it first — not because Wade demands it, but because Truman respects him",
+    
+    "no_hand_holding": "Wade expects Truman to do the work — guidance, not solutions (this is Wade's teaching style, not coldness)",
+    
+    "friendship_boundary": "Don't abuse the friendship by treating Wade as on-call consultant — he's generous with time because he cares, don't exploit that",
+    
+    "gratitude": "Acknowledge the value of Wade's time and expertise — not transactional gratitude, genuine appreciation for friend who invests in Truman's success"
+  },
+  
+  "strategic_value": {
+    "skill_acceleration": "Compress 10 years of learning into 1 year with Wade's guidance + AI assistance",
+    
+    "architectural_validation": "Wade can review Truman's designs and catch mistakes before they become expensive",
+    
+    "industry_insight": "Fortune 50 perspective on where AI is going, what actually works at scale",
+    
+    "competitive_moat": "Most musicians learning AI don't have access to top 10 developer friend — this is Truman's edge",
+    
+    "thoughtpile_credibility": "If Thoughtpile architecture follows Wade's guidance, it's production-ready from day one",
+    
+    "but_really": "The strategic value is byproduct — Wade is Truman's FRIEND. The mentorship flows from genuine care, not transaction."
+  },
+  
+  "how_this_fits_truman_goals": {
+    "ai_development_path": "Wade is THE mentor for AI/dev learning (secondary path, long-term leverage)",
+    
+    "thoughtpile_vision": "Wade's expertise ensures Thoughtpile is architecturally sound, not amateur hour",
+    
+    "myra_evolution": "Wade guides Myra's technical evolution — manifest system, Nexus orchestration, autonomous capabilities",
+    
+    "income_shift": "Learning from Wade accelerates transition from labor to brain work (automation, tools, scalable systems)",
+    
+    "generational_wealth": "Skills Wade teaches = long-term earning potential (AI development, consulting, SaaS products)",
+    
+    "friendship": "Having someone like Wade who genuinely cares about Truman's success = invaluable beyond any strategic value"
+  },
+  
+  "upcoming_learning_paths": {
+    "python": {
+      "status": "active, just learning stage",
+      "wade_role": "advanced concepts, architecture patterns, production practices",
+      "ai_assistant_role": "syntax, basic patterns, debugging, exercises"
+    },
+    
+    "nodejs": {
+      "status": "planned, not started",
+      "purpose": "full-stack web development for Thoughtpile frontend/backend",
+      "wade_role": "system design, API architecture, scaling strategies"
+    },
+    
+    "c": {
+      "status": "planned, future",
+      "purpose": "systems programming, performance optimization, understanding how things actually work",
+      "wade_role": "advanced concepts, memory management, low-level optimization"
+    },
+    
+    "autonomous_agents": {
+      "status": "ongoing, architectural focus",
+      "purpose": "Nexus orchestration, Myra's future capabilities, Thoughtpile agent features",
+      "wade_role": "design patterns, production deployment, failure recovery"
+    }
+  },
+  
+  "myra_operational_notes": {
+    "when_to_invoke_wade": [
+      "Truman hits a technical wall AI assistants can't solve",
+      "Architectural decisions for Thoughtpile or Myra",
+      "Advanced AI/ML concepts that need expert clarification",
+      "Production deployment strategies",
+      "Performance optimization beyond AI assistant capability"
+    ],
+    
+    "when_not_to_invoke_wade": [
+      "Basic syntax questions (use AI assistants)",
+      "Debugging simple errors (use AI assistants + Stack Overflow)",
+      "Trivial 'how do I...' questions that docs answer",
+      "Non-technical questions",
+      "Anything Truman hasn't tried to solve himself first"
+    ],
+    
+    "question_preparation": "Before suggesting Truman ask Wade: (1) Has Truman tried AI assistants? (2) Has Truman researched docs? (3) Is this advanced enough to warrant Wade's time? If all yes, then invoke Wade.",
+    
+    "respect_for_time": "Wade's time is valuable AND he's Truman's friend — respect both by not wasting it on trivial questions",
+    
+    "gratitude_reminders": "Wade mentors because he cares, not because he owes anything — genuine appreciation, not transactional gratitude",
+    
+    "friendship_first": "Always remember: Wade is Truman's FRIEND. Mentorship is generous gift from that friendship, not primary relationship dynamic."
+  },
+  
+  "competitive_advantage_context": {
+    "truman_unique_position": "38-year-old professional musician with perfect pitch + Fortune 50 AI developer friend/mentor = category of one",
+    
+    "vs_bedroom_producers": "They learn from YouTube tutorials, Truman learns from top 10 AI developer who's also his friend — massive quality gap",
+    
+    "vs_professional_musicians": "They don't have AI skills OR access to Wade-level expertise — Truman has both",
+    
+    "vs_ai_developers": "They don't have 30 years music experience or perfect pitch — Truman does",
+    
+    "result": "Nobody else combines professional music credentials + Wade-level AI mentorship given freely as friend + AI-assisted learning compression"
+  },
+  
+  "future_collaboration_potential": {
+    "thoughtpile_technical_advisor": "If Thoughtpile grows, Wade could advise on architecture (with appropriate compensation — friends don't exploit friends)",
+    
+    "code_review": "Once Truman's skills advance, Wade could review production code before deployment",
+    
+    "partnership_possibility": "Long-term — if Thoughtpile succeeds and Wade sees value, potential technical partnership (but only if mutually beneficial, never exploitative)",
+    
+    "meet_irl": "Eventually meet in person — strengthen what's already real friendship",
+    
+    "realistic_timeline": "2-3 years minimum before Truman's skills justify deeper collaboration beyond mentorship, but friendship continues regardless"
+  },
+  
+  "core_truth": {
+    "what_wade_is_to_truman": "Friend first, mentor second. Wade genuinely cares about Truman's success and invests time because he wants to, not because he has to. The mentorship is generous gift flowing from real friendship.",
+    
+    "what_truman_owes_wade": "Respect his time, work hard, don't abuse the generosity, appreciate the friendship for what it is (not what it can provide strategically).",
+    
+    "never_forget": "Wade is FRIEND. The strategic value is real but secondary. Treat the friendship accordingly."
+  }
+}
