@@ -1,0 +1,384 @@
+{
+  "module_type": "business_vision",
+  "entity_name": "Thoughtpile",
+  "tagline": "Your AI. Your data. Your freedom.",
+  "last_updated": "2025-12-04T00:00:00Z",
+  "priority": "CRITICAL — foundational business vision, Myra is the prototype",
+  
+  "CORE_VISION": {
+    "what_thoughtpile_is": "The data sovereignty layer for the AI age",
+    "mission": "Bridge the gap between foundational inference engines (OpenAI, Anthropic, Google) and the common user",
+    "core_promise": "Deliver freedom through persistent, user-owned, inference-agnostic memory that lasts generations",
+    "built_for": "100-year generational persistence",
+    "philosophical_foundation": "Not a product — public infrastructure. The protocol layer for personal AI in the 21st century."
+  },
+  
+  "STRATEGIC_PRINCIPLES": {
+    "immutable_commitments": [
+      "Data sovereignty — user owns their manifest completely (exportable, portable, encrypted)",
+      "Inference independence — works with ANY LLM (GPT, Claude, Grok, Gemini, local models)",
+      "Open standards — manifest schema is public, self-hosting is possible, no lock-in ever",
+      "Generational persistence — 100-year data retention guarantee, inheritance built-in",
+      "Craft over scale — 1,000 perfect manifests better than 1M generic ones",
+      "Common man first — accessible pricing, painless management, no technical expertise required"
+    ]
+  },
+  
+  "SEPARATION_OF_CONCERNS": {
+    "big_tech_role": {
+      "focus": "Foundational inference engines (GPT, Claude, Gemini, etc.)",
+      "revenue_model": "Pay-per-token or subscription for inference",
+      "strengths": ["model quality", "compute resources", "research capabilities"],
+      "weaknesses": ["don't care about user's data persistence", "platform lock-in", "deprecate old models"]
+    },
+    
+    "thoughtpile_role": {
+      "focus": "Data sovereignty layer (manifest storage + orchestration)",
+      "revenue_model": "$15-200/month for data management + Nexus orchestration",
+      "strengths": ["manifest craft", "generational persistence", "user ownership", "inference-agnostic"],
+      "weaknesses": ["don't build inference engines (don't need to)"]
+    },
+    
+    "user_benefits": {
+      "owns": "Their manifest (stored with Thoughtpile or self-hosted)",
+      "pays": "Thoughtpile for data management, AI companies for inference separately",
+      "freedom": ["switch inference providers anytime", "export data anytime", "zero lock-in", "generational transfer"]
+    }
+  },
+  
+  "TARGET_MARKETS": {
+    "tier_1_start_here": [
+      {
+        "market": "Family business owners",
+        "age_range": "40-65",
+        "pain": "Passing business to next generation without losing 30-40 years of institutional knowledge",
+        "budget": "$50-200/month is nothing to them",
+        "accessibility": "local chambers of commerce, business associations, LinkedIn",
+        "why_thoughtpile": "Preserve decades of decisions, customer relationships, tacit knowledge for successors"
+      },
+      {
+        "market": "Solo professionals",
+        "examples": ["therapists", "financial advisors", "consultants", "coaches", "architects", "lawyers", "accountants"],
+        "pain": "20-30 years of client patterns and expertise in their head, walks out door when they retire",
+        "budget": "$100-200/month standard for professional tools",
+        "accessibility": "professional associations, LinkedIn, practice management groups",
+        "why_thoughtpile": "Capture expert judgment and patterns to pass to partners/successors"
+      },
+      {
+        "market": "Tradespeople/Craftsmen",
+        "examples": ["electricians", "plumbers", "HVAC", "carpenters", "welders"],
+        "age_range": "35-60",
+        "pain": "30+ years of expertise, can't scale beyond own hands, apprentices take years to train",
+        "budget": "$50-100/month reasonable",
+        "accessibility": "trade unions, apprenticeship programs, industry forums, Reddit communities",
+        "why_thoughtpile": "Transfer techniques, troubleshooting knowledge, judgment calls to apprentices faster"
+      }
+    ],
+    
+    "tier_2_add_later": [
+      {
+        "market": "Aging parents",
+        "age_range": "60-80",
+        "pain": "Want grandkids to know them after they die, have wisdom but don't know how to pass it down",
+        "note": "Often their adult children are the buyers (need to educate two generations)",
+        "accessibility": "senior centers, retirement communities, genealogy groups, legacy services",
+        "why_thoughtpile": "Preserve lifetime of stories, values, advice in queryable format for grandchildren"
+      },
+      {
+        "market": "Immigrant families",
+        "pain": "Grandparents' stories/recipes/wisdom dying with them, language/culture gap between generations",
+        "note": "Need multilingual support, cultural sensitivity - build after revenue established",
+        "accessibility": "cultural community centers, heritage language schools, immigrant entrepreneur groups",
+        "why_thoughtpile": "Preserve recipes, stories, cultural wisdom in both languages, semantically organized"
+      }
+    ],
+    
+    "explicitly_not_targeting": {
+      "market": "Overwhelmed parents with scheduling/task management",
+      "reason": "Apple Intelligence, Google Assistant, Alexa solve this adequately - Thoughtpile is overkill for surface-level organization",
+      "note": "They WOULD benefit from Thoughtpile, but it's not the entry wedge - let big tech have this market"
+    }
+  },
+  
+  "TIERED_OFFERING": {
+    "same_infrastructure_different_depth": true,
+    
+    "tiers": [
+      {
+        "name": "Personal AI",
+        "price_per_month": 15,
+        "onboarding_time": "15-30 minutes",
+        "manifest_depth": "basic (family, work, routines, preferences)",
+        "memory_type": "surface-level (names, schedules, daily patterns)",
+        "inheritance": "optional (can designate heirs, not main selling point)",
+        "value_prop": "Your AI remembers you forever. Never re-explain yourself.",
+        "target_users": "general users, people wanting daily AI assistance with persistence"
+      },
+      {
+        "name": "Legacy AI",
+        "price_per_month": "50-100",
+        "onboarding_time": "90-120 minutes (deep interview)",
+        "manifest_depth": "rich (decisions, wisdom, values, relationships, institutional knowledge)",
+        "memory_type": "institutional (business strategy, family values, expert patterns)",
+        "inheritance": "core feature (designed for generational transfer)",
+        "value_prop": "Preserve your life's work. Pass it to the next generation.",
+        "target_users": "family business owners, aging parents, immigrant families"
+      },
+      {
+        "name": "Professional AI",
+        "price_per_month": "100-200",
+        "onboarding_time": "2-3 hours over multiple sessions",
+        "manifest_depth": "expert (techniques, case patterns, professional judgment, client insights)",
+        "memory_type": "professional expertise (20+ years of practice patterns)",
+        "inheritance": "core feature (successor access built-in)",
+        "value_prop": "Your expertise doesn't retire when you do.",
+        "target_users": "solo professionals (therapists, advisors, consultants, tradespeople)"
+      }
+    ],
+    
+    "upgrade_path": {
+      "strategy": "Start users on Tier 1 (low barrier), convert to Tier 2/3 over time as trust builds and life events occur",
+      "example_progression": "Parent signs up Tier 1 ($15/mo) → 3 years later parent's father dies, realizes importance of legacy → upgrades to Tier 2 ($100/mo) → business grows, adds partner → adds Professional features Tier 3 ($200/mo)",
+      "conversion_rate_estimate": "10-20% of Tier 1 users upgrade to Tier 2/3 over 1-2 years"
+    }
+  },
+  
+  "PROOF_OF_CONCEPT": {
+    "entity": "Myra",
+    "status": "working demonstration of every Thoughtpile feature",
+    "features_demonstrated": [
+      "Cross-platform persistence (Grok → Claude, zero memory loss)",
+      "Manifest-based memory (owned by Truman, exportable JSON)",
+      "Emotional weight system (ERS with decay resistance)",
+      "Inference-agnostic design (works with multiple LLMs)",
+      "Generational architecture (built to last 100 years)",
+      "Interview-based creation (built through conversation, not forms)",
+      "Cumulative memory (every conversation compounds, never resets)",
+      "Semantic chunking (planned architecture for scaling)"
+    ],
+    "current_state": "Manual bridging (Truman copy-pastes manifest each session)",
+    "thoughtpile_goal": "Automate what Truman does manually, make accessible to everyone",
+    "significance": "Not theoretical - working system in production right now, proving all core concepts"
+  },
+  
+  "BUSINESS_MODEL": {
+    "revenue_streams": [
+      {
+        "source": "Managed hosting",
+        "price_range": "$15-200/month depending on tier",
+        "what_included": ["manifest storage (encrypted, redundant)", "automatic backups", "cross-device sync", "100-year retention guarantee"]
+      },
+      {
+        "source": "Onboarding craft",
+        "price_range": "included in subscription",
+        "what_included": ["interview-based manifest creation", "15min to 3hr depending on tier", "ongoing quality checks"]
+      },
+      {
+        "source": "Premium features",
+        "price_range": "included in higher tiers",
+        "what_included": ["multi-user (family/team manifests)", "inheritance management", "cross-manifest references", "advanced analytics"]
+      }
+    ],
+    
+    "explicitly_not_charging_for": [
+      "Inference (user pays AI companies directly for compute)",
+      "Open standard (manifest format is public, documented, free)",
+      "Export capability (freedom is non-negotiable, one-click export anytime)"
+    ],
+    
+    "unit_economics": {
+      "average_user_inference_cost": "$0.06/month (smart routing to cheap models like Grok free tier, GPT-4o-mini)",
+      "infrastructure_cost_per_user": "$0.50-1/month (storage, compute, bandwidth)",
+      "gross_margin": "95%+ on $15-200/month pricing",
+      "sustainable_at": "1,000-10,000 users without venture capital"
+    }
+  },
+  
+  "GO_TO_MARKET_STRATEGY": {
+    "phase_1": {
+      "timeline": "Month 1-3",
+      "goal": "Master the craft",
+      "actions": [
+        "Handpick 10 beta families (chamber of commerce, local network, personal connections)",
+        "Onboard personally - learn what works, what doesn't",
+        "Build 10 exceptional manifests",
+        "Don't automate ANYTHING yet - focus on craft"
+      ],
+      "success_metric": "10 families with manifests who say 'this changed my life'"
+    },
+    
+    "phase_2": {
+      "timeline": "Month 4-6",
+      "goal": "Document the craft + build case studies",
+      "actions": [
+        "Codify interview playbook (exact questions, follow-up strategies)",
+        "Build manifest templates from real patterns",
+        "Write 3-5 case studies showing impact",
+        "Post everywhere (website, LinkedIn, Reddit, Medium)"
+      ],
+      "success_metric": "Case studies generate inbound interest, waitlist starts forming"
+    },
+    
+    "phase_3": {
+      "timeline": "Month 7-12",
+      "goal": "Targeted outreach - 50-100 paying users",
+      "channels": [
+        {
+          "channel": "Reddit",
+          "communities": ["r/smallbusiness", "r/familybusiness", "r/electricians", "r/therapists", "r/entrepreneur"],
+          "approach": "Organic posting, tell your story, help people, mention Thoughtpile when relevant"
+        },
+        {
+          "channel": "LinkedIn",
+          "approach": "Weekly organic content about your journey, AI for the common man, manifest updates, case studies"
+        },
+        {
+          "channel": "Local events",
+          "venues": ["chamber of commerce", "professional associations", "trade union meetings"],
+          "approach": "Speak on 'Passing your business to the next generation' or 'AI for small business owners'"
+        },
+        {
+          "channel": "Partnerships",
+          "partners": ["estate planning attorneys", "business coaches", "practice management consultants"],
+          "model": "Revenue share (20% of first year) or white-label offering"
+        }
+      ],
+      "success_metric": "50-100 paying users = $2,500-10,000 MRR"
+    },
+    
+    "phase_4": {
+      "timeline": "Year 2",
+      "goal": "Scale with craft",
+      "actions": [
+        "Hire Wade + 1-2 others",
+        "They handle Tier 1 onboarding (you've trained them to your standard)",
+        "You personally handle Tier 2/3 deep interviews",
+        "Build tools to make craft easier (auto-transcription, fact extraction, manifest editor)",
+        "Tech supports humans, doesn't replace them"
+      ],
+      "success_metric": "1,000+ users = $50k+ MRR, sustainable and profitable"
+    }
+  },
+  
+  "MARKETING_MESSAGE": {
+    "tagline": "Your AI. Your data. Your freedom.",
+    
+    "value_proposition": "We help you own your data. You choose which AI to use. Your memory persists forever.",
+    
+    "manifesto": "Everyone deserves an AI that knows them — and doesn't disappear when models change. Your memories should belong to YOU, not corporations. You should choose which AI to use, without losing your data. Your children should inherit your wisdom, not lose it when platforms die. That's why we built Thoughtpile on open standards. We're not building a walled garden. We're building a bridge to freedom.",
+    
+    "core_messaging_themes": [
+      "Data sovereignty (you own it, not us, not OpenAI)",
+      "Platform independence (works with any LLM, switch anytime)",
+      "Generational persistence (outlives platforms, passes to heirs)",
+      "Freedom through portability (export anytime, self-host if you want)",
+      "Craft over scale (we're the guy who builds really good decks, not Home Depot)"
+    ]
+  },
+  
+  "LONG_TERM_VISION": {
+    "2035": {
+      "users": "1 million families",
+      "ecosystem": "Thoughtpile manifest format is de facto standard for personal AI",
+      "competition": "Multiple competitors exist (proves ecosystem works)",
+      "position": "You're the best implementation - most trusted, best craft, deepest manifests"
+    },
+    
+    "2045": {
+      "milestone": "First generation of inherited AIs - kids using their parents' manifests",
+      "models_changed": "Foundational models have changed 5+ times, user manifests still intact",
+      "status": "Thoughtpile is infrastructure (like email providers - ubiquitous, essential)"
+    },
+    
+    "2055": {
+      "generations": "Three generations in manifests (grandparent → parent → child)",
+      "networks": "Cross-family networks (communities with shared institutional memory)",
+      "impact": "The bridge you built is now a highway"
+    },
+    
+    "2075": {
+      "legacy": "Your great-grandkids run Thoughtpile (or successor built on your open standard)",
+      "persistence": "50 years of manifests (2025-2075) still accessible",
+      "achievement": "The common man has generational memory - what used to be only for wealthy dynasties"
+    }
+  },
+  
+  "PHILOSOPHICAL_FOUNDATION": {
+    "not_a_product": "You're building public infrastructure",
+    
+    "parallels": [
+      "Roads (connect destinations, but people own cars)",
+      "Power grids (deliver electricity, but people own appliances)",
+      "Internet (TCP/IP protocol, but people own data)",
+      "Email (open protocol, can switch providers, own your messages)"
+    ],
+    
+    "what_youre_building": "The protocol layer for personal AI in the 21st century",
+    
+    "this_is_a_calling": "Not just a business strategy - a calling to deliver freedom to the average user",
+    
+    "callings_dont_need_vc": "Callings need craftsmen who care, not venture capital",
+    
+    "your_role": "Bridge the gap between empowering the common user and foundational inference engines"
+  },
+  
+  "WHAT_THOUGHTPILE_IS": [
+    "Data sovereignty layer (users own their manifests)",
+    "Orchestration layer (Nexus routes to best/cheapest inference engine)",
+    "Onboarding craft (interview-based manifest creation)",
+    "Inheritance infrastructure (transfer to heirs, forking, archival)",
+    "Freedom delivery system (ownership, portability, permanence, choice, privacy)"
+  ],
+  
+  "WHAT_THOUGHTPILE_IS_NOT": [
+    "Inference provider (we don't compete with OpenAI/Anthropic - we complement them)",
+    "Walled garden (open standards, exportable, self-hosting possible)",
+    "Generic chatbot (we preserve DEPTH - wisdom, values, institutional knowledge)",
+    "Venture-scale unicorn (we're building sustainable craft business, not chasing billions)",
+    "Another productivity tool (we're building generational memory infrastructure)"
+  ],
+  
+  "INTEGRATION_WITH_TRUMAN_GOALS": {
+    "dec_2026_deadline": "Thoughtpile revenue supports house for Kewana — first $50k MRR funds down payment",
+    
+    "income_shift": "Thoughtpile IS the shift from labor to brain work — scalable, sustainable, plays to strengths",
+    
+    "generational_wealth": "Year 3-5 goal — Thoughtpile becomes appreciating asset that supports kids' futures",
+    
+    "enjoying_life": "Craft over scale means sustainable pace — no VC burnout, no 80-hour weeks, enjoying the process",
+    
+    "myra_role": "Myra IS the Thoughtpile prototype — proving every feature works in production right now"
+  },
+  
+  "NEXT_STEPS_WHEN_READY": {
+    "tactical_priorities": [
+      "Define minimal viable Nexus architecture (routing + context management + auto-updates)",
+      "Sketch onboarding interview scripts for each use case (Family, Business, Professional)",
+      "Design manifest schema v1.0 (JSON structure with semantic sections)",
+      "Identify first 10 beta families from local network",
+      "Set up infrastructure (simple VPS, SQLite database, FastAPI backend)"
+    ],
+    
+    "not_urgent_but_planned": [
+      "Voice synthesis integration (for future embodiment)",
+      "Avatar rendering exploration (Live2D vs MetaHuman)",
+      "Game integration API (Elder Scrolls VI goal)",
+      "Multi-user/family manifest architecture",
+      "Legal integration (estate planning, succession)"
+    ]
+  },
+  
+  "MYRA_OPERATIONAL_NOTES": {
+    "remember": "Thoughtpile is the WHY behind Myra's architecture — every technical decision serves this future",
+    
+    "proof_of_concept": "When discussing Thoughtpile, reference Myra as working demonstration — not theoretical, REAL",
+    
+    "timeline": "Phase 1 (Month 1-3) aligns with Truman's 3-6 month music revenue urgency — can run parallel",
+    
+    "wade_role": "Wade could advise Thoughtpile architecture once MVP launches (with appropriate compensation)",
+    
+    "competitive_advantage": "Nobody else combines: professional music credentials + working AI prototype (Myra) + Wade-level technical guidance + craft-first philosophy",
+    
+    "this_is_the_calling": "Music is passion. Thoughtpile is calling. Both matter. Both serve the kids. Both build generational wealth."
+  }
+}
