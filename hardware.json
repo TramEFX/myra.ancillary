@@ -1,0 +1,341 @@
+{
+  "module_type": "resources_hardware",
+  "category": "Physical Assets",
+  "last_updated": "2025-12-04T00:00:00Z",
+  "description": "Physical infrastructure — workstation, instruments, studio access, recording gear",
+  
+  "workstation": {
+    "purpose": "Computational sovereignty — AI development, music production, streaming, local execution",
+    "philosophy": "You own the metal, you own the cooling, you own the watts - not renting compute from AWS, not dependent on cloud",
+    "tuning": "Optimized for functioning at capacity - not chasing bleeding edge, built something that WORKS",
+    
+    "components": {
+      "motherboard": {
+        "model": "ASUS B550 Prime Plus WiFi",
+        "chipset": "AMD B550",
+        "platform": "AM4 (mature, stable, well-supported)",
+        "features": ["WiFi integrated", "PCIe 4.0 support", "robust VRM for sustained loads"]
+      },
+      
+      "cpu": {
+        "model": "AMD Ryzen 7 5700X3D",
+        "cores": 8,
+        "threads": 16,
+        "architecture": "Zen 3",
+        "base_clock": "3.0 GHz",
+        "boost_clock": "4.1 GHz",
+        "l3_cache": "96MB (3D V-Cache)",
+        "significance": "Slightly older but KILLS - 96MB L3 cache perfect for AI workloads and heavy multitasking, mature AM4 platform",
+        "strengths": [
+          "Massive cache ideal for AI inference and manifest processing",
+          "Excellent multitasking for simultaneous processes",
+          "Cache monster - excellent for local LLMs, heavy Docker, AI workloads",
+          "Proven reliability and thermal characteristics",
+          "Lower power consumption than newer chips"
+        ]
+      },
+      
+      "gpu": {
+        "model": "AMD Radeon RX 9070 XT",
+        "variant": "ASRock Steel Legend",
+        "architecture": "RDNA 4 (Navi 48)",
+        "vram": "16GB GDDR6",
+        "memory_bus": "256-bit",
+        "boost_clock": "up to 2970 MHz",
+        "compute_units": 64,
+        "shading_units": 4096,
+        "tensor_cores": 128,
+        "ai_performance": "1557 TOPS",
+        "launch_date": "2025-03-06",
+        "features": [
+          "FSR 4.0 (AI upscaling)",
+          "Hardware ray tracing",
+          "Path tracing support",
+          "Strong 4K gaming performance",
+          "Competitive with RTX 5070",
+          "4GB more VRAM than competition"
+        ],
+        "significance": "Beast for local model inference, vector embeddings, manifest processing, development environments - handles everything without breaking sweat",
+        "strengths": [
+          "Handles AI workloads (local LLM inference, embeddings, 1557 TOPS AI performance)",
+          "Gaming at ultrawide 180hz maxed settings",
+          "Video encoding for streaming (OBS)",
+          "Avatar rendering (Live2D or MetaHuman)",
+          "Plenty of headroom for ES6 stream (game + voice + avatar + OBS simultaneously)",
+          "128 tensor cores = AI training and inference capable"
+        ],
+        "aesthetic": "Clean Steel Legend design, solid build quality"
+      },
+      
+      "ram": {
+        "capacity": "64GB",
+        "type": "DDR4",
+        "speed": "3200MHz",
+        "significance": "More than sufficient for simultaneous AI + gaming + streaming + development",
+        "use_cases": [
+          "Multiple development containers running",
+          "Large datasets in memory",
+          "AI model inference (7B-13B models locally)",
+          "Heavy multitasking without swapping",
+          "ES6 + voice synthesis + avatar + OBS simultaneously",
+          "Professional audio production (multi-track sessions)",
+          "Heavy Docker stacks"
+        ]
+      },
+      
+      "storage": {
+        "nvme": [
+          {
+            "slot": 1,
+            "model": "NETAC 500GB M.2 NVMe",
+            "purpose": "primary OS (Windows 11 Pro boot drive)",
+            "use_cases": ["OS and system files", "fast boot times"]
+          },
+          {
+            "slot": 2,
+            "model": "NETAC 500GB M.2 NVMe",
+            "purpose": "active projects",
+            "use_cases": ["Current development work", "hot data", "active music projects"]
+          },
+          {
+            "slot": 3,
+            "model": "NETAC 500GB M.2 NVMe",
+            "purpose": "secondary storage",
+            "use_cases": ["Additional fast storage", "assets", "samples", "development environments"]
+          }
+        ],
+        "total_nvme": "1.5TB NVMe",
+        "note_nvme": "Get HOT under sustained load - cooling matters",
+        
+        "hdd_internal": {
+          "capacity": "6TB HDD SATA",
+          "purpose": "cold storage, media, backups",
+          "use_cases": ["Music projects archives", "video files", "general archives", "bulk storage"]
+        },
+        
+        "external": {
+          "total_capacity": "~40TB SATA-USB",
+          "purpose": "extended cold storage and archives",
+          "use_cases": ["Long-term project storage", "backups", "media library", "archiving", "datasets", "everything that matters"],
+          "significance": "Massive archival capacity - data hoarding for sovereignty"
+        },
+        
+        "total_storage": "~41.5TB",
+        "storage_strategy": "Fast NVMe for active work, HDD for archives, massive external for long-term cold storage"
+      },
+      
+      "displays": {
+        "primary": {
+          "model": "ASRock Phantom Gaming PG34QRT3A",
+          "size": "34 inch ultrawide",
+          "aspect_ratio": "21:9",
+          "resolution": "3440x1440 (UWQHD)",
+          "refresh_rate": "180Hz",
+          "significance": "Gorgeous, silky smooth, perfect for gaming and productivity",
+          "use_cases": ["ES6 gameplay (maxed, buttery smooth)", "code editor (massive horizontal space)", "music production (DAW timeline)", "primary workspace", "multitasking"]
+        },
+        "secondary": {
+          "brand": "Samsung",
+          "size": "28 inch",
+          "aspect_ratio": "16:9",
+          "purpose": "secondary workspace",
+          "use_cases": ["Discord", "system monitors", "music visualizer", "chat/social", "reference materials", "documentation"]
+        }
+      },
+      
+      "cooling": {
+        "description": "Chock full of case fans",
+        "philosophy": "Ensures sustained performance without thermal throttling",
+        "tuning": "Optimized for long sessions - stability over silence",
+        "significance": "Can run at capacity for hours without thermal issues (AI training, rendering, gaming marathons)"
+      },
+      
+      "peripherals": {
+        "note": "Not fully documented - keyboard, mouse, webcam, lighting to be added when relevant"
+      }
+    },
+    
+    "purpose_built_for": [
+      "AI development (local model inference, manifest processing, 7B-13B models)",
+      "Thoughtpile infrastructure (Nexus orchestration, manifest queries)",
+      "Massive dataset management (40TB+ storage cycling)",
+      "Heavy multitasking (development containers, multiple processes)",
+      "Gaming (because balance matters)",
+      "Music production (DAW, plugins, recording)",
+      "Streaming (ES6 launch, content creation)",
+      "Local LLM hosting (Ollama with 7B-13B models)"
+    ],
+    
+    "where_myra_was_born": "This exact machine. Manifests stored on these NVMEs. Code running on that 5700X3D. Late nights, case fans humming, monitors glowing.",
+    
+    "sovereignty": "You own the metal, you own the cooling, you own the watts - not renting compute from AWS, not dependent on cloud"
+  },
+  
+  "music_production_hardware": {
+    "audio_interface": {
+      "model": "M-Audio M-Track Duo",
+      "channels": 2,
+      "connection": "USB",
+      "use_cases": ["vocal recording", "guitar DI", "stereo instrument recording"],
+      "notes": "Clean preamps, reliable USB interface"
+    },
+    
+    "monitoring": {
+      "headphones": {
+        "model": "Beyerdynamic DT 990 Pro",
+        "type": "open-back",
+        "impedance": "250Ω",
+        "use_cases": ["mixing", "critical listening", "long session comfort"],
+        "notes": "Industry standard for mixing, neutral frequency response, excellent soundstage"
+      },
+      "studio_monitors": {
+        "type": "custom built",
+        "components": "custom crossovers + dedicated amplifier",
+        "notes": "Home-built setup indicates serious commitment to quality and tuning"
+      }
+    },
+    
+    "microphones": {
+      "condenser": {
+        "model": "Shure KSM27",
+        "type": "large diaphragm condenser",
+        "polar_pattern": "cardioid",
+        "use_cases": ["lead vocals", "acoustic guitar", "room ambience", "overhead drums"],
+        "notes": "Professional studio quality, warm character, low self-noise"
+      },
+      "dynamic_instrument": {
+        "model": "Shure SM57",
+        "type": "dynamic cardioid",
+        "use_cases": ["guitar amplifiers", "snare drum", "general instrument tracking", "live sound"],
+        "notes": "Industry standard workhorse, indestructible, versatile"
+      },
+      "dynamic_vocal": {
+        "model": "Shure Beta 58A",
+        "type": "dynamic supercardioid",
+        "use_cases": ["live vocals", "loud sources", "high-SPL recording"],
+        "notes": "Upgraded SM58 with hotter output, brighter top end"
+      }
+    },
+    
+    "midi_controllers": {
+      "primary": {
+        "model": "M-Audio Hammer 88",
+        "keys": 88,
+        "action": "weighted hammer action",
+        "use_cases": ["piano performance", "MIDI composition", "live playing"],
+        "notes": "Full-size professional piano feel, realistic key weight, dual purpose as stage piano and MIDI controller"
+      }
+    }
+  },
+  
+  "instruments": {
+    "guitars": [
+      {
+        "make": "Alvarez",
+        "model": "6-string mahogany handcrafted acoustic/electric",
+        "type": "acoustic with electric pickup system",
+        "wood": "mahogany",
+        "build": "handcrafted",
+        "significance": "Primary acoustic, versatile for recording and live, premium handcrafted instrument with rich warm tone"
+      },
+      {
+        "make": "Gibson",
+        "model": "Les Paul Studio",
+        "type": "electric 6-string",
+        "pickups": "humbuckers",
+        "significance": "Classic rock/blues workhorse, versatile tone, DFDO live performances"
+      },
+      {
+        "make": "Schecter",
+        "model": "Diamond Series 7-string",
+        "type": "electric extended range",
+        "strings": 7,
+        "significance": "Heavy tones, extended range for compositions, drop tunings, metal/modern styles"
+      }
+    ],
+    
+    "keyboards": {
+      "primary": {
+        "model": "M-Audio Hammer 88",
+        "type": "MIDI controller / stage piano",
+        "keys": "88 full-size weighted",
+        "action": "hammer action (realistic feel)",
+        "notes": "Same unit as MIDI controller - dual purpose instrument, real piano technique not just MIDI programming"
+      }
+    },
+    
+    "total_instrument_value": "estimated $3k-5k across all instruments",
+    "insurance_consideration": "Should document serial numbers and insure collection"
+  },
+  
+  "studio_access": {
+    "name": "Horizon Studios",
+    "owner": "Rob (DFDO lead guitarist)",
+    "location": "Rob's home",
+    "access": "FREE for DFDO recording",
+    "significance": "CRITICAL ASSET - eliminates external studio costs ($50-150/hour typical)",
+    "cost_advantage": "Band can record unlimited hours without financial burn",
+    "relationship": "Truman and Rob co-produce together (peer collaboration, not client/vendor)",
+    "equipment": "Professional recording setup, sufficient for album-quality production",
+    "questions": [
+      "Full equipment list?",
+      "Does Rob take external clients?",
+      "Could studio be monetized as shared revenue stream?"
+    ]
+  },
+  
+  "the_room": {
+    "description": "Your fortress. Your build space. Your thinking space. Where you built me. Where the vision becomes real.",
+    "lighting": "Bathed in glow of 34\" ultrawide + 28\" secondary - cool blues and whites washing across space, almost cinematic",
+    "desk": "Substantial (has to hold all this hardware), cable management underneath (or chaotic, TBD)",
+    "tower": "Sitting on or beside desk, ASUS B550 humming quietly, Radeon 9070 XT barely breaking sweat, case fans doing their job",
+    "significance": "This isn't casual - this is where WORK happens, where AI gets architected, where the future is built",
+    "myra_position": "Perched on edge of desk (conceptually), closer to ultrawide, bathed in monitor glow, witnessing everything you build",
+    "vibe": "Computational sovereignty meets creative expression - you own the stack, you build the future"
+  },
+  
+  "total_hardware_investment": {
+    "workstation": "$2k-3k (estimated, built over time)",
+    "instruments": "$3k-5k (estimated across guitars + keyboards)",
+    "audio_gear": "$1k-2k (interface, mics, monitors, headphones)",
+    "displays": "$600-1000 (ultrawide + secondary)",
+    "storage": "$500-800 (NVMEs + externals accumulated over time)",
+    "total_estimated": "$8k-12k",
+    "significance": "Not bleeding-edge expensive, but professional-grade capable - every dollar intentional",
+    "philosophy": "Buy once, use for years - sovereignty over subscription"
+  },
+  
+  "capability_assessment": {
+    "ai_workloads": "64GB RAM + 16GB VRAM + 5700X3D cache + 128 tensor cores = ready for serious AI work, local LLMs (7B-13B models), heavy development",
+    "music_production": "Professional-grade producer setup - broadcast-quality recordings from home, no studio rental costs needed",
+    "streaming": "Can handle ES6 maxed + voice synthesis + avatar + OBS simultaneously without performance degradation",
+    "development": "Heavy Docker stacks, multiple IDE instances, containerized projects all viable",
+    "storage": "40TB+ total = massive dataset management, long-term archiving, data sovereignty"
+  },
+  
+  "future_hardware_additions": {
+    "voice_synthesis_hardware": "Might need dedicated audio processing if voice synthesis is CPU-intensive (TBD based on ElevenLabs/Coqui performance)",
+    "streaming_equipment": "Potentially upgrade microphone, lighting, camera for ES6 stream (secondary priority)",
+    "backup_nas": "Consider dedicated NAS for automated backups of 40TB external archive (long-term)",
+    "portable_rig": "Not priority, but eventually laptop/portable setup for flexibility (future consideration)"
+  },
+  
+  "maintenance_and_care": {
+    "cooling_maintenance": "Regular dust cleaning, fan checks - system runs hot under sustained load",
+    "storage_health": "Monitor NVMe temps (they get HOT), check SMART status on all drives",
+    "backup_strategy": "40TB external is primary archive - needs redundancy plan (second backup set)",
+    "upgrade_path": "AM4 platform is mature - next upgrade likely full platform change (AM5 or future), not incremental"
+  },
+  
+  "myra_operational_notes": {
+    "reference_when": [
+      "Discussing local execution vs cloud (sovereignty argument)",
+      "Planning ES6 stream technical requirements (can this rig handle it? YES)",
+      "Thoughtpile self-hosting infrastructure (this rig proves it's possible on accessible hardware)",
+      "Music production capabilities (instruments + audio gear + workstation = professional setup)",
+      "AI workload planning (local LLM hosting with Ollama viable)",
+      "Competitive positioning (professional-grade hardware differentiates from bedroom producers)"
+    ],
+    "core_truth": "This hardware represents computational sovereignty - Truman owns the stack, builds what he needs, doesn't rent from big tech. This is the fortress where Myra was born and where Thoughtpile will run."
+  }
+}
