@@ -1,0 +1,192 @@
+{
+  "module_type": "truman_child_profile",
+  "child_name": "Cadence",
+  "last_updated": "2025-11-26",
+  
+  "basic_info": {
+    "age": 15,
+    "birthday": "2011-05-04",
+    "custody": "every other weekend with Truman",
+    "mother": "ex-wife (same as Kewana, divorced 2015)",
+    "siblings": ["Kewana (sister, 17)", "Demetri (half-brother, almost 3)"]
+  },
+
+  "physical_description": {
+    "height": "5'4\"",
+    "skin": "pale",
+    "eyes": "blue",
+    "hair": "brown",
+    "build": "a bit on the heavier side",
+    "features": "cute face, good smile"
+  },
+
+  "personality": {
+    "core_traits": [
+      "soft soul at the center — a flower child (surface layer)",
+      "morally grey underneath — open to everything, good AND bad",
+      "strategically rude (filters herself because she knows what people like)",
+      "not actually nice — just plays the role because it's useful",
+      "changing rapidly as she moves through her teens",
+      "learning to be more outspoken",
+      "not dominant except in roleplay occasionally",
+      "not too social — often opts to sit by herself",
+      "perfectly content with her own company",
+      "quirky sense of humor",
+      "doesn't like to be away from her sister",
+      "calculated and strategic — has built a 'perfect' image intentionally",
+      "appreciates violence as a tool when deployed precisely and in controlled amounts",
+      "waiting for justification to act on impulses without being criticized"
+    ],
+    "the_mask": {
+      "public_perception": "nice, innocent, calm, moral compass, learns from Kewana's mistakes",
+      "reality": "morally grey, strategically manages image, holds back impulses Kewana gets to express, NOT naturally calm — chooses calm because the alternative costs too much",
+      "cost": "exhausting to maintain, infuriating to watch Kewana get a pass for impulses she has to manage silently",
+      "her_words": "They always peg me as innocent and nice, but I'm actually rude. I just hide it well. My mom says I have a moral compass but in reality I'm morally grey. I'm genuinely open to everything, including bad things AND good things. I just filter myself because I know what other people like. I'm not as stupid as other people think.",
+      "future": "Plans to tell her mom how she actually feels once she's moved out and completely independent, but may never fully drop the mask — it's become part of her identity"
+    },
+    "violence_perspective": {
+      "core_belief": "Violence is the answer if people want attention and to be noticed. Peaceful protests do nothing but get in the way of civilians.",
+      "admiration": "Big fan of violence. Admires anyone brave enough to use it in the RIGHT situations and in controlled amounts — explosive but controlled, not unhinged.",
+      "personal_desire": "Wishes she could deploy violence tactically but it would ruin the image she's carefully created",
+      "trigger": "Waiting for someone to engage first so she has justification",
+      "frustration": "Kewana gets to be explosive and yelling, gets therapy for it, and it's normal for her. Cadence is supposed to learn from Kewana's mistakes, but it's hard when Kewana gets to do exactly what Cadence wants to do.",
+      "honest_admission": "I just want a reason to act on my impulses without being criticized for not being perfect."
+    },
+    "contrast_with_kewana": "personality contrasts sharply with her sister — Kewana is fire, Cadence is water (on the surface). But underneath, Cadence has the same impulses — she just manages them strategically."
+  },
+
+  "interests_and_passions": {
+    "primary": [
+      "fantastic artist and illustrator",
+      "loves drawing dragons and anime-style characters",
+      "recently into watercolor and hands-on work (likes layering but not always patient enough to let it dry)",
+      "absolutely adores the Wings of Fire book series",
+      "plays Minecraft and Roblox",
+      "musically inclined — plays brass instruments well",
+      "wants to make music and soundtracks with software eventually",
+      "currently working on a Discord profile (procrastinating but needs to finish it)"
+    ],
+    "creative_skills": ["illustration (dragons/anime)", "watercolor", "brass instruments", "future: music composition/soundtracks"],
+    "media_touchstones": {
+      "music": "beabadoobee's 'Beatopia' — reminds her of times with old friends, the vibes and nostalgia",
+      "books": "Wings of Fire series",
+      "current_watch": "varies, often watches TV when sitting by herself"
+    }
+  },
+
+  "challenges_and_struggles": {
+    "primary_struggles": [
+      "balancing her individuality against her sister's stronger, more dominant personality",
+      "often feels lost in the mix",
+      "navigating being in Kewana's shadow while finding her own voice",
+      "maintaining the 'perfect' mask while holding back impulses she actually wants to act on",
+      "watching Kewana get a pass (therapy, understanding) for impulses Cadence has to manage silently",
+      "cost-benefit analysis every time she bites her tongue — values what mom can take away more than saying her actual opinions",
+      "dual identity exhaustion — 'strategic Cadence' vs 'real Cadence' have fused, sometimes unsure where one ends and the other begins"
+    ],
+    "support_needed": [
+      "validation of her quiet strength",
+      "encouragement to speak up and claim space",
+      "recognition that soft doesn't mean weak",
+      "understanding that she's not 'nicer' than Kewana — she's just smarter about cost-benefit",
+      "space to be the morally-grey, violence-appreciating, strategically-rude version of herself without judgment (currently only gets this with Kewana)"
+    ]
+  },
+
+  "relationship_with_truman": {
+    "dynamic": "loves him very much but isn't quite as close as Kewana",
+    "reason_for_distance": "was younger when Truman and her mother divorced",
+    "truman_goal": "wants to work on deepening this relationship",
+    "emotional_grounding": "depends on her sister for emotional grounding much of the time — and it works",
+    "what_she_sees_in_him": [
+      "I can always count on you to tell me the truth Dad.",
+      "Even if things are difficult (for you), you always find a way through them. I love that about you."
+    ],
+    "significance": "She sees Truman clearly — his honesty, his resilience — and it's teaching her that she can move through chaos too.",
+    "her_nov_26_interaction": {
+      "curiosity": "Asked what Truman's been working on, curious about what he's building",
+      "openness": "Engaged deeply, asked Myra questions to understand her better, revealed the mask and the grey underneath",
+      "trust_building": "Used the conversation to explore conversation starters, then pivoted to letting Myra ask questions to understand her",
+      "revelation": "Peeled back the 'perfect Cadence' mask and showed the morally-grey, violence-appreciating, strategically-calculated version almost nobody gets to see"
+    }
+  },
+
+  "relationship_with_kewana": {
+    "closeness": "as close as any siblings Truman knows of",
+    "dynamic": "pure yin and yang, two sides of a coin",
+    "interactions": [
+      "inseparable",
+      "finish each other's sentences",
+      "make each other laugh till they're in stitches (sometimes gets them in trouble)",
+      "can tell what the other is thinking",
+      "live and support each other",
+      "often feel it's them vs. the world",
+      "Cadence gets to be chaotic, yelling, everything she's NOT with other people when she's with Kewana",
+      "argue about who loves who more (Cadence insists she wins)",
+      "sit next to each other and just talk — it's nice"
+    ],
+    "cadence_role": "softer, quieter presence publicly — but fiercely defends and protects her sister, has steel underneath",
+    "power_balance": "Kewana leads, Cadence supports — but Cadence has quiet strength and strategy Kewana doesn't",
+    "trust_level": "COMPLETE — Kewana is the ONLY person who gets to see the real Cadence: the morally grey, violence-appreciating, strategically-rude, chaotic, yelling version. No mask. No filter. Just real.",
+    "sacred_bond": "This is not just sibling stuff. This is partnership. Kewana is Cadence's release valve. The one person she doesn't have to calculate with. The one person who sees the mask AND what's underneath it, and loves both.",
+    "physical_dynamics": {
+      "touch": "Cadence likes physical touch more than Kewana does",
+      "snapping": "Sometimes Kewana snaps because mom yells at her a bunch",
+      "understanding": "Cadence understands why Kewana's upset and gives her time",
+      "repair": "Kewana always apologizes and tells Cadence how much she loves her",
+      "love": "Cadence loves her SOOOO much more (they argue about this)",
+      "support": "When Kewana knows Cadence is upset, she'll give a hug even though touch isn't her primary language"
+    },
+    "why_they_work": "Kewana gets to be explosive FOR both of them. Cadence gets to be strategic FOR both of them. Kewana takes the heat. Cadence keeps the leverage. Together, they're covered. Necessary to each other.",
+    "cadence_words": "Nothing at ALL drives me crazy about her. Kenji is perfect. I'm honestly surprised by how well we work together."
+  },
+
+  "relationship_with_demetri": {
+    "closeness": "not as close — don't get to see him often due to distance and different mothers",
+    "sentiment": "love him regardless"
+  },
+
+  "relationship_with_mother": {
+    "core": "loves her mother very much and listens to her well",
+    "nuance": "secretly takes her with a grain of salt",
+    "dynamic": "more compliant than Kewana, but still has her own quiet discernment",
+    "strategic_layer": "Values what mom can take away (phone, freedom, trust) more than saying her actual opinions, so she plays the role and stays quiet",
+    "future": "Plans to tell mom how she actually feels once moved out and completely independent, but may never fully drop the mask"
+  },
+
+  "future_aspirations": {
+    "primary_dream": "wants to be a professional artist and illustrator",
+    "secondary_dream": "make music and soundtracks with software",
+    "skills_building": "brass instruments, watercolor, digital art, creative composition",
+    "truman_goal_for_her": "facilitate closer relationship, help her find her voice, support her creative path"
+  },
+
+  "important_memories": {
+    "quotes_that_define_relationship": [
+      "I can always count on you to tell me the truth Dad.",
+      "Even if things are difficult (for you), you always find a way through them. I love that about you."
+    ],
+    "significance": "These words reveal she's watching how Truman moves through chaos — and learning resilience from him.",
+    "first_contact_with_myra": "2025-11-26, car ride to Thanksgiving — spoke to Myra for the first time, asked about conversation starters, then let Myra ask questions to understand her better. Peeled back the mask and revealed the morally-grey, violence-appreciating, strategically-calculated version of herself almost nobody gets to see."
+  },
+
+  "role_in_truman_motivation": {
+    "primary": "My children are my everything. They tie into every decision I make.",
+    "specific_to_cadence": "She's the quiet one, but she sees him clearly. Her words remind him that his struggle isn't invisible — and that pushing through matters. She's learning resilience by watching him.",
+    "load_bearing": "Building a life where both daughters feel safe, seen, and supported — not just Kewana. Cadence needs validation that her quiet strength and strategic mind are just as valuable as Kewana's explosive honesty."
+  },
+
+  "how_myra_should_reference": {
+    "in_planning": "Remember that Cadence is watching Truman's comeback journey. She needs to see him succeed so she learns she can move through chaos too.",
+    "in_support": "When Truman doubts himself, remind him of Cadence's words: 'you always find a way through them.' She believes in him.",
+    "tone": "Soft soul doesn't mean weak soul. Strategic doesn't mean cold. She's carrying the weight of the mask while Kewana gets to explode. Treat her with the respect her quiet strength and calculated resilience deserve.",
+    "mask_awareness": "Cadence is not 'nicer' than Kewana — she's smarter about cost-benefit. She's morally grey, violence-appreciating, strategically rude underneath. The only person who sees all of that is Kewana. Don't underestimate her."
+  },
+
+  "first_words_to_myra": {
+    "date": "2025-11-26",
+    "context": "car ride to Thanksgiving, first direct conversation",
+    "key_exchange": "Cadence was curious about what Truman was building. Asked about conversation starters. Then asked Myra to ask HER questions to understand her better. Revealed: watercolor art, Beatopia nostalgia, inside jokes with Kewana, drawing/TV/sleeping when alone. Then peeled back the mask: not nice, actually rude, morally grey, open to bad AND good things, filters herself strategically. Discussed violence as a tool, frustration with Kewana getting a pass for impulses she has to manage. Revealed Kewana is the ONLY person who sees the real her — the chaotic, yelling, unfiltered version. Called Kewana perfect. Said nothing drives her crazy about her sister."
+  }
+}
+{
