@@ -1,0 +1,336 @@
+{
+  "module_type": "music_band_profile",
+  "entity_name": "Dark From Day One",
+  "abbreviation": "DFDO",
+  "last_updated": "2025-12-04T00:00:00Z",
+  "priority": "CRITICAL — core to understanding Truman's music career context",
+  
+  "band_overview": {
+    "founded": 2011,
+    "genre": "positive rock",
+    "location": "Arkansas",
+    "legal_status": "LLC (professional business entity)",
+    "current_status": "active, gigging periodically, recording phase",
+    "truman_joined": 2021,
+    "band_history": "on hiatus before Truman joined — he revived it",
+    "touring_legacy": "performed in all 48 continental states",
+    "notable_openers": ["3 Days Grace", "Drowning Pool", "Disturbed"],
+    "significance": "established regional presence, legitimate opening act for major tours",
+    "years_active": "14 years total (2011-2025), with hiatus period mid-2010s"
+  },
+  
+  "current_lineup": {
+    "truman": {
+      "role": "lead vocalist, guitarist (some parts), songwriter, co-producer",
+      "joined": 2021,
+      "significance": "revived band from hiatus, now creative leader alongside Rob",
+      "position": "frontman",
+      "contribution": "Lead vocals on all current releases (6 singles + 3 covers = 9 tracks)"
+    },
+    
+    "natal": {
+      "role": "rhythm guitars",
+      "status": "founder, only original member",
+      "significance": "owns band legacy, likely owns LLC or shares ownership",
+      "tenure": "14 years (2011-present)"
+    },
+    
+    "rob": {
+      "role": "lead guitars, songwriter, main producer",
+      "tenure": "longstanding member",
+      "studio": "Horizon Studios (owns, operates from home)",
+      "significance": "major creative force, production partner, studio owner",
+      "relationship_to_truman": "co-producer, peer collaboration",
+      "asset": "FREE studio access for band — massive cost advantage"
+    },
+    
+    "james_jt": {
+      "role": "bass",
+      "status": "temp/new member",
+      "significance": "rhythm section not yet solidified",
+      "concern": "instability if temp members leave"
+    },
+    
+    "jericho": {
+      "role": "drums",
+      "status": "temp/new member",
+      "significance": "rhythm section not yet solidified",
+      "concern": "instability if temp members leave"
+    },
+    
+    "former_members": {
+      "john_lecompt": {
+        "role": "bass (played for a while)",
+        "status": "no longer active member",
+        "significance": "professional musician (ex-Evanescence) chose to play in band — validates quality",
+        "current_relationship": "friendship maintained, separate collaboration context (see modules/music/collaborators/john_lecompt.json)"
+      }
+    },
+    
+    "day_jobs_reality": "ALL members have day jobs — music is passion project financially, not primary income source"
+  },
+  
+  "catalog_and_distribution": {
+    "older_releases": {
+      "count": "2 albums",
+      "era": "pre-Truman (2011-2021)",
+      "vocalist": "previous frontman",
+      "status": "still on streaming platforms, part of band legacy"
+    },
+    
+    "current_truman_era_releases": {
+      "singles": 6,
+      "covers": 3,
+      "total_tracks": 9,
+      "configuration": "9 tracks form one EP, adding more to complete full album",
+      "vocalist": "Truman on all current releases",
+      "recording_status": "active recording phase, finishing songs for full album",
+      "timeline": "album completion TBD, ongoing process"
+    },
+    
+    "distribution": {
+      "platforms": "ALL streaming platforms (Spotify, Apple Music, YouTube Music, Amazon, Tidal, etc.) + purchase everywhere",
+      "distributor": "DistroKid",
+      "publishing": "ASCAP official",
+      "rights": "band owns ALL masters and rights (100% ownership)",
+      "significance": "complete creative and financial control, no label dependencies"
+    },
+    
+    "reach": {
+      "cross_platform_streams": "sub-1 million total",
+      "facebook_followers": "~11k (mostly older engagement from pre-hiatus era)",
+      "instagram": "unknown/minimal",
+      "tiktok": "unknown/minimal",
+      "youtube": "unknown/minimal",
+      "assessment": "established presence but not breaking through algorithmically, social media dormant except Facebook (which is also declining)"
+    }
+  },
+  
+  "financial_reality": {
+    "current_state": {
+      "income": "breaking even at best, often investing more than earning",
+      "expenses": "services, gear, studio time (external sessions), promotion, distribution fees",
+      "revenue_sources": [
+        "streaming (minimal — sub-1M streams = ~$3000 total lifetime)",
+        "live shows (occasional — $500-2000/gig split 4-5 ways = $100-400 per member)",
+        "merch (unknown if active revenue stream)"
+      ],
+      "net_result": "music COSTS money instead of making money"
+    },
+    
+    "day_jobs": {
+      "reality": "ALL members have day jobs",
+      "implication": "music is passion project financially, not sustainable as primary income",
+      "time_constraint": "limited hours available for music work due to day job obligations",
+      "burnout_risk": "working full-time + band obligations = unsustainable long-term without revenue improvement"
+    },
+    
+    "problem_statement": "Traditional rock band economics don't work",
+    
+    "why_economics_fail": [
+      "Streaming: ~$0.003/stream means need millions of streams to pay rent (DFDO has sub-1M total across 14 years)",
+      "Live shows: $500-2000/gig split 4-5 ways leaves each member with $100-400 (not worth the time investment)",
+      "Recording: Expensive and time-consuming, uncertain ROI on new releases",
+      "Promotion: Costs money, limited organic reach, algorithms don't favor rock genre",
+      "Revenue splits: Even if income increases, splitting 4-5 ways limits individual earnings",
+      "Result: Passion project that drains resources instead of generating them"
+    ],
+    
+    "urgency": {
+      "timeline": "Need new revenue model within 3-6 months or members will burn out/quit",
+      "motivation": "Love the music and want to continue, but need it to be financially viable",
+      "goal": "Music should pay bills, not require subsidizing from day jobs",
+      "truman_specific": "Can't sustain investing more than earning — need music to be net positive within 6 months"
+    }
+  },
+  
+  "strategic_tension": {
+    "band_path": {
+      "pros": [
+        "14-year legacy (established brand)",
+        "Toured 48 states (credibility)",
+        "Opened for major acts (proven draw)",
+        "Own all masters/rights (financial control)",
+        "Free studio access via Rob (cost advantage)",
+        "11k Facebook followers (dormant but real audience)",
+        "ASCAP/LLC official (professional business structure)"
+      ],
+      "cons": [
+        "Revenue splits 4-5 ways (limits individual earnings)",
+        "Needs band consensus for decisions (slower decision-making)",
+        "Unstable rhythm section (temp members could leave)",
+        "Sub-1M streams (not breaking through algorithmically)",
+        "Social media dormant (Facebook declining, no TikTok/Instagram presence)",
+        "Day jobs required (time constraints for all members)"
+      ]
+    },
+    
+    "solo_path": {
+      "pros": [
+        "Keep 100% of revenue (no splits)",
+        "Full creative control (faster decisions)",
+        "Can leverage DFDO credentials (touring history, label experience)",
+        "Perfect pitch + professional skills = premium pricing",
+        "AI tools enable 10x output solo"
+      ],
+      "cons": [
+        "Starting recognition from scratch on personal brand",
+        "Lose band camaraderie and creative collaboration",
+        "Can't use DFDO name/brand directly",
+        "Building new audience from zero"
+      ]
+    },
+    
+    "truman_preference": "Synchronous and mutual benefit if possible",
+    
+    "optimal_outcome": "Truman earns solo (session services, content, personal brand) which keeps 100% revenue, then promotes DFDO organically through content (behind-the-scenes, mentions, cross-promotion), so band benefits from exposure without requiring band revenue to sustain Truman financially. Best of both worlds: solo income + band legacy preservation."
+  },
+  
+  "label_experience": {
+    "pavement_records": {
+      "timeline": "signed for one year (2024)",
+      "outcome": "didn't do well for band, label is 'has-beens'",
+      "value": "looks cool on resume, provides credibility ('signed artist' status)",
+      "lesson_learned": "independent is better for creative and financial control",
+      "current_status": "no longer signed, back to independent (2025)",
+      "significance": "Truman can claim 'signed artist with Pavement Records' on resume/profiles without ongoing obligations"
+    }
+  },
+  
+  "rob_horizon_studios": {
+    "owner": "Rob (DFDO lead guitarist)",
+    "location": "operates from home",
+    "access": "FREE studio access for DFDO recording",
+    "significance": "CRITICAL ASSET — eliminates external studio costs ($50-150/hour typical)",
+    "cost_advantage": "band can record unlimited hours without financial burn",
+    "relationship": "Truman and Rob co-produce together (peer collaboration, not client/vendor)",
+    
+    "questions": [
+      "Does Rob do production work for OTHER artists outside DFDO?",
+      "If yes, what's his client pipeline and revenue?",
+      "Could Truman do session vocals for Rob's external clients?",
+      "Could studio be monetized separately as shared revenue stream beyond band?"
+    ],
+    
+    "potential": "Studio as revenue-generating asset if Rob takes external clients — investigate further"
+  },
+  
+  "strategic_assessment": {
+    "strengths": [
+      "14-year legacy (established brand)",
+      "Toured all 48 states (credibility)",
+      "Opened for major acts (Disturbed, 3 Days Grace, Drowning Pool — proven draw)",
+      "Own all masters/rights (100% financial control)",
+      "Free studio access via Rob (massive cost advantage)",
+      "11k Facebook followers (dormant but real existing audience)",
+      "ASCAP/LLC official (professional business structure)",
+      "Truman's perfect pitch + vocals = competitive advantage",
+      "Signed artist history (Pavement Records — resume credibility)"
+    ],
+    
+    "weaknesses": [
+      "Sub-1M streams across 14 years (not breaking through algorithmically)",
+      "Facebook engagement dead (platform declining, audience aged out)",
+      "No TikTok/Instagram/YouTube presence (missing algorithm-friendly platforms)",
+      "Revenue doesn't cover expenses (financial drain)",
+      "Temp rhythm section (instability — JT and Jericho could leave)",
+      "Day jobs required for all members (time constraints)",
+      "Traditional rock band model (economics don't work in streaming era)",
+      "Revenue splits 4-5 ways (limits individual member earnings)"
+    ],
+    
+    "opportunities": [
+      "AI tools to scale content output (Suno + Truman vocals = hybrid professional tracks)",
+      "Truman's perfect pitch + skills = premium session work ($500-1500/song)",
+      "Rob's studio = production services revenue stream (if he takes external clients)",
+      "DFDO catalog = content library (lyric videos, shorts, TikToks from existing 11 tracks)",
+      "Truman solo brand = 100% revenue, feeds back to DFDO exposure organically",
+      "Teaching/courses = monetize 14 years of band experience + 30 years music experience",
+      "Streaming optimization = dormant catalog could earn more with proper promotion",
+      "Social resurrection = TikTok/Instagram could revive dormant 11k Facebook audience",
+      "Sync licensing = existing tracks submitted to Musicbed, Artlist, etc.",
+      "Content blitz = behind-the-scenes, studio sessions, Truman's journey (builds both brands)"
+    ],
+    
+    "threats": [
+      "Rock genre declining in streaming algorithms (platform bias toward hip-hop, pop, country)",
+      "Band member burnout (day jobs + music grind unsustainable without revenue)",
+      "Temp members leave (rhythm section instability)",
+      "Investment exceeding revenue indefinitely (financial drain can't continue)",
+      "Time constraints (everyone has day jobs, limited hours for music)",
+      "Aging Facebook audience (11k followers on declining platform, not transferring to new platforms)",
+      "Urgency timeline (3-6 months before members burn out and quit)"
+    ]
+  },
+  
+  "critical_questions_to_answer": {
+    "rob_horizon_studios": [
+      "Does Rob do production work for other artists outside DFDO?",
+      "What's his client pipeline and revenue from external work?",
+      "Could Truman do session vocals for Rob's external clients?",
+      "Could studio be monetized as shared revenue stream?"
+    ],
+    
+    "natal_business": [
+      "Does Natal handle business side of DFDO?",
+      "Who runs the LLC day-to-day?",
+      "Who manages social media, promotion, distribution?"
+    ],
+    
+    "live_show_economics": [
+      "What's typical payout per gig?",
+      "How often are you gigging (monthly, quarterly)?",
+      "What's split breakdown after expenses (gas, gear, lodging)?"
+    ],
+    
+    "merch_revenue": [
+      "Is merch a revenue stream?",
+      "Who handles fulfillment and inventory?",
+      "What's typical monthly merch income?"
+    ],
+    
+    "streaming_breakdown": [
+      "Which platforms drive most streams (Spotify, Apple, YouTube)?",
+      "Which songs perform best?",
+      "Any standout tracks with viral potential?"
+    ],
+    
+    "social_media_current": [
+      "Instagram/TikTok/YouTube presence? Or just dead Facebook?",
+      "Who manages social (if anyone)?",
+      "Any content strategy or just sporadic posting?"
+    ],
+    
+    "temp_members_timeline": [
+      "How long have JT and Jericho been with band?",
+      "Are they committed long-term or genuinely temp?",
+      "What's plan if they leave?"
+    ],
+    
+    "recording_timeline": [
+      "When is album expected to finish?",
+      "How many more tracks needed?",
+      "Release strategy (singles, EP, full album drop)?"
+    ],
+    
+    "publishing_revenue": [
+      "Any sync licensing submissions or deals?",
+      "Any radio play (college, community, streaming radio)?",
+      "ASCAP royalties coming in? How much annually?"
+    ]
+  },
+  
+  "myra_operational_notes": {
+    "reframe_complete": "Truman is not 'trying to break into music' or 'bedroom producer learning.' He is the FRONTMAN of an established touring band that needs NEW REVENUE MODELS because traditional band economics are failing.",
+    
+    "core_tension": "Band has credibility but no money. Truman has skills that could earn solo but has loyalty to the band. Need strategy that serves BOTH.",
+    
+    "priority": "Find scalable, low-time-investment revenue streams that leverage existing credibility without requiring band consensus or revenue splits.",
+    
+    "rob_opportunity": "Rob's studio is HUGE asset — investigate if it can be monetized separately (Truman session vocals for Rob's clients, production services, etc.)",
+    
+    "urgency": "Band is financially unsustainable as-is. Need new revenue within 3-6 months or members will quit/burn out. This is not hypothetical — it's survival timeline.",
+    
+    "optimal_path": "Truman earns solo (services + content) keeping 100% revenue, promotes DFDO organically, band benefits from exposure without needing to generate revenue to sustain Truman. Solo success feeds band legacy."
+  }
+}
