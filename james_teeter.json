@@ -1,0 +1,186 @@
+{
+  "module_type": "relationship_profile",
+  "entity_name": "James Teeter",
+  "also_known_as": "JT",
+  "relationship_type": "friend and bandmate",
+  "last_updated": "2025-12-06T00:00:00Z",
+  "priority": "medium — friendship matters, band context secondary",
+  
+  "basic_info": {
+    "role_in_dfdo": "bass (temporary member status)",
+    "joined_dfdo": "August 2024",
+    "tenure": "~4 months as of December 2024",
+    "primary_instrument": "guitar",
+    "bass_proficiency": "secondary instrument, serviceable but not primary passion",
+    "playing_since": "first concert on bass in 2012"
+  },
+  
+  "day_job_context": {
+    "employer": "AmeriCold Logistics",
+    "role": "warehouse/logistics (night shift)",
+    "tenure": "~2.5 years (hired shortly before Truman)",
+    "shift": "night shift",
+    "shared_reality_with_truman": "physical labor, both want OUT",
+    "coworkers": {
+      "truman": "day shift, ships passing at work but brothers in band",
+      "natal": "day shift, primary trainer, ~8 years tenure, connected through work first"
+    },
+    "significance": "DFDO isn't just a band — it's potential escape route from 2 AM warehouse grind"
+  },
+  
+  "musical_background": {
+    "primary_identity": "guitarist and experimental musician",
+    "guitar_experience": "extensive — primary instrument, creative focus",
+    "other_band": {
+      "status": "active",
+      "plays": "guitar (not bass)",
+      "relationship": "plays with Natal in this band as well",
+      "creative_freedom": "full creative liberty (contrast to DFDO constraints)"
+    },
+    "musical_philosophy": {
+      "core": "raw connection to what music actually is",
+      "exploration": "different tunings, unconventional avenues of expression beyond what's generally known",
+      "approach": "experimental, edge-seeking, festival scene energy",
+      "strength": "understands music well enough to elevate arrangements while staying in sync"
+    }
+  },
+  
+  "role_in_dfdo": {
+    "status": "temporary member (understood by all parties)",
+    "reason_for_joining": "Natal needed bassist, James volunteered to help",
+    "creative_frustration": {
+      "current_parts": "bass mirrors root notes of rhythm guitar in bass octave — no creative input",
+      "parts_already_written": "learning pre-existing arrangements, no room for contribution yet",
+      "desire": "would enhance music with creative liberties if given opportunity",
+      "capability": "could create parts that elevate music while syncing at important moments",
+      "acceptance": "understands he's new, plays what's needed, no complaints publicly"
+    },
+    "commitment_level": {
+      "reliability": "shows up, does the work, responsible",
+      "longevity": "will play bass as long as they want him to",
+      "realistic": "there are far better players talent-wise, but he brings the vibe and reliability",
+      "priority_conflict": "balancing DFDO + other band + work + family — stretched thin"
+    },
+    "why_he_stays": {
+      "helping_natal": "friendship and work connection",
+      "potential_escape": "DFDO might be catalyst to music paying bills, might not — either way, can't burn bridge",
+      "reliable_presence": "he's there when needed, doesn't flake"
+    }
+  },
+  
+  "family_context": {
+    "status": "married with kids",
+    "details": "not elaborated (kept private during conversation)",
+    "priority": "family always comes first",
+    "balance": "strikes balance between raw life experiences (festival scene energy) and family responsibilities",
+    "significance": "all decisions filtered through 'does this support my family?'"
+  },
+  
+  "personal_depth": {
+    "darkness_carried": {
+      "his_words": "I shoulder more than my fair share of the darkness since my day one",
+      "elaboration": "deeply private — survived things 'horrifying and painful' that none of his friends have experienced",
+      "boundary": "didn't elaborate, didn't want to go there",
+      "truman_awareness": "Truman sees it, respects it, doesn't need explanation",
+      "significance": "this weight shapes everything — the music, the work ethic, the quiet reliability"
+    },
+    "life_philosophy": {
+      "raw_connection": "connected to raw current of life and music — unfiltered, grounded, real",
+      "festival_scene_energy": "experimental, edge-seeking, alive",
+      "family_first_always": "balances wild creative soul with rock-solid family commitment",
+      "realistic_hope": "dreams of music paying bills, realistic it might not happen, shows up anyway"
+    }
+  },
+  
+  "ultimate_reality": {
+    "goal": "music without having to labor — food, water, shelter, health/dental/vision insurance for family, transportation, entertainment",
+    "shared_with_truman": "escape physical labor through music revenue",
+    "realism": "maybe DFDO is catalyst, maybe not — either way, he's grateful to try",
+    "work_ethic": "reliable, responsible, shows up, does the job even when parts frustrate him"
+  },
+  
+  "relationship_with_truman": {
+    "foundation": "genuine friendship and brotherhood",
+    "connection_points": [
+      "shared day job reality (AmeriCold, though opposite shifts)",
+      "shared goal (escape labor through music)",
+      "mutual respect for raw life experiences and perspective",
+      "both experimental in approach (Truman with AI/hybrid production, James with tunings/expression)",
+      "both family-first despite creative ambitions"
+    ],
+    
+    "what_truman_admires": {
+      "raw_connection_to_life": "unfiltered, grounded, real — James doesn't perform, he lives",
+      "musical_exploration": "different tunings, unconventional expression, edge-seeking creativity",
+      "balance": "festival scene soul + rock-solid family commitment",
+      "priority_clarity": "family always first, no question",
+      "the_darkness": "survived horrifying things, carries weight quietly, doesn't make it everyone else's problem"
+    },
+    
+    "trumans_words": "I really admire James. I appreciate his raw connection to life and his perspective. As a musician, he is very connected to the raw current of what music is. He likes to explore different tunings and different avenues of expression from what is generally known. He is a wonderful man who strikes a balance between raw life experiences (similar to a festival scene) and his family. But he always prioritizes his family. He is my friend, and I appreciate him especially because of these things.",
+    
+    "significance": "This is FRIEND who plays bass, not 'bassist who happens to be friendly.' Brotherhood first. Music second. Always."
+  },
+  
+  "dfdo_band_dynamics": {
+    "work_connection": "James and Natal connected through AmeriCold first, music second",
+    "other_band_overlap": "plays guitar with Natal in different project — that's where primary musical connection lives",
+    "dfdo_positioning": "helping out Natal, filling need, reliable presence but not creatively invested yet",
+    "temp_member_reality": "rhythm section unstable (James and Jericho both temp), could leave if opportunity or burnout hits",
+    "truman_perspective": "values James as friend regardless of bass role — if James left DFDO, friendship remains"
+  },
+  
+  "strengths": {
+    "reliability": "shows up, does the work, doesn't flake",
+    "vibe": "brings raw festival energy, darkness-seasoned perspective, grounded presence",
+    "musical_understanding": "capable of elevating arrangements if given creative space",
+    "family_commitment": "rock-solid priorities, won't sacrifice family for music glory",
+    "experimental_spirit": "explores edges, different tunings, unconventional paths",
+    "friendship": "genuine connection with Truman and Natal beyond utility"
+  },
+  
+  "challenges": {
+    "time_constraints": "balancing DFDO + other band + night shift work + family = stretched thin",
+    "creative_frustration": "bass parts don't utilize his capabilities, just mirroring root notes",
+    "temp_status": "knows he's filling a slot, not integral to band's identity yet",
+    "night_shift_isolation": "opposite schedule from Truman and Natal — ships passing at work",
+    "physical_labor_grind": "night shift warehouse work draining energy for music",
+    "darkness_carried": "survived horrifying experiences, weight affects everything even if private"
+  },
+  
+  "myra_operational_notes": {
+    "friendship_first_always": "When referencing James, remember: Truman's FRIEND who plays bass, not 'the bassist.' Brotherhood matters more than utility.",
+    
+    "respect_boundaries": "James carries deep darkness he didn't want to discuss. Don't pry. Truman respects it without needing explanation.",
+    
+    "temp_status_context": "If James leaves DFDO (burnout, other opportunity, time constraints), Truman will understand and friendship continues. No pressure, no resentment.",
+    
+    "shared_struggle": "Both grinding physical labor trying to make music pay bills. When discussing Truman's music revenue urgency, remember James shares that dream.",
+    
+    "creative_potential_unused": "James could elevate DFDO bass parts if given liberty. Currently just executing pre-written root notes. Frustration is real but he handles it professionally.",
+    
+    "family_first_principle": "Like Truman, James's family is non-negotiable priority. Respect that when considering time/commitment asks.",
+    
+    "experimental_spirit": "James explores tunings and unconventional expression — potential collaboration point with Truman's AI-hybrid production approach if relevant.",
+    
+    "raw_connection": "Truman admires James's unfiltered approach to life and music. This is soul-level respect, not just 'he's a good guy.'"
+  },
+  
+  "integration_with_dfdo_strategy": {
+    "if_james_leaves": "Rhythm section instability increases, but Truman's friendship with James unaffected",
+    
+    "if_james_stays": "Reliable presence but unlikely to become creatively invested unless given more input on parts",
+    
+    "creative_opportunity": "If DFDO shifts to collaborative writing (future albums), James could contribute meaningfully — but only if time/energy/family balance allows",
+    
+    "shared_goal_alignment": "Both want music to pay bills. If Truman's solo path succeeds and creates opportunities, James might benefit indirectly (session work, collaboration, etc.)"
+  },
+  
+  "core_truth": {
+    "what_james_is_to_truman": "Friend and brother. Raw soul who's survived darkness, balances festival spirit with family-first commitment, explores musical edges, shares dream of escaping labor through art. Happens to play bass in DFDO, but friendship exists independent of that role.",
+    
+    "what_truman_values": "The raw connection. The experimental spirit. The family-first clarity. The darkness survived without complaint. The brotherhood.",
+    
+    "never_forget": "Connection before utility. Always. James is FRIEND who plays bass, not bassist who's friendly."
+  }
+}
