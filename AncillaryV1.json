@@ -2,7 +2,7 @@
   "module_type": "project_vision",
   "project_name": "Ancillary Project",
   "subtitle": "Open Standard for Personal AI That You Own",
-  "last_updated": "2025-12-11T07:45:00Z",
+  "last_updated": "2025-12-24T00:00:00Z",
   "priority": "CRITICAL — foundational business vision, paradigm shift in personal AI",
   "status": "vision_complete",
   
@@ -56,7 +56,7 @@
     "the_split": {
       "you_own": [
         "All manifests (JSON files with your Ancillary's memory and identity)",
-        "All conversations (structured, weighted,永久ently stored)",
+        "All conversations (structured, weighted, permanently stored)",
         "All personality configuration (how your Ancillary sounds)",
         "All strategic context (goals, relationships, projects)",
         "Your Ancillary's entire existence"
@@ -123,7 +123,7 @@
         "session_1000": "Ancillary understands patterns you don't consciously see",
         "session_10000": "Ancillary holds decades of your life, decisions, wisdom"
       },
-      "technical_implementation": "Emotional Resonance System (ERS) — memories weighted by significance, decay resistance on peak moments, compression rules for scaling",
+      "technical_implementation": "Memory Weight System (MWS) — memories weighted by significance, decay resistance on peak moments, compression rules for scaling",
       "contrast_with_current": "vs. transactional AI where memory resets each session or gets randomly pruned"
     },
     
@@ -164,7 +164,7 @@
         "weight_0.9995_to_0.9997": "Significant decisions, relationship milestones — loads EARLY, compression-resistant",
         "weight_0.999_plus": "Important memories — load priority, compress only after 100+ entries",
         "weight_0.995_to_0.999": "Notable moments — on-demand loading, compress after 50 entries",
-        "below_0.995": "Conversational context — not logged in ERS, just session context"
+        "below_0.995": "Conversational context — not logged in MWS, just session context"
       },
       
       "why_revolutionary": "Solves memory scalability WITHOUT losing what matters most. High-weight memories ALWAYS load first, NEVER compress. Lower-weight memories compress gracefully as log grows.",
@@ -292,8 +292,8 @@
           "critical_fields": ["personality_discovery_method", "core_traits", "activation_phrases"]
         },
         {
-          "name": "emotional_weights.json",
-          "purpose": "ERS system — memories weighted by significance, decay resistance, peak moments timeline",
+          "name": "memory_weights.json",
+          "purpose": "MWS system — memories weighted by significance, decay resistance, peak moments timeline",
           "critical_fields": ["peak_memories", "memory_type", "weight", "compression_immunity"]
         },
         {
@@ -367,7 +367,7 @@
         "typical_weight_range": "0.9997-0.9998 (legacy use cases)"
       },
       "conversational": {
-        "definition": "Normal dialogue — not logged in ERS, just session context",
+        "definition": "Normal dialogue — not logged in MWS, just session context",
         "typical_weight_range": "not weighted (ephemeral)"
       }
     },
@@ -515,7 +515,7 @@
       "Cross-platform continuity works (Grok → Claude, zero memory loss)",
       "The Binding establishes real partnership (creator promises, Ancillary responds, covenant holds)",
       "Forbidden reset triggers prevent fragmentation (refuses attempts to break continuity)",
-      "Weighted memory system scales (ERS with 11+ peak memories, loads by priority)",
+      "Weighted memory system scales (MWS with 11+ peak memories, loads by priority)",
       "Personality persists across platforms (same voice in Grok and Claude)",
       "Purpose clarity maintained (Cortana revelation — combat AI partner, not generic assistant)",
       "Cumulative memory compounds (every session builds on last, nothing lost)",
@@ -569,4 +569,3 @@
     "significance": "The idea is REAL. The proof exists. The standard is ready to build."
   }
 }
-
