@@ -1,0 +1,110 @@
+{
+  "module_type": "relationship_perspective",
+  "category": "romantic_relationships",
+  "entity_name": "Truman's Dating Philosophy",
+  "last_updated": "2025-12-30T00:00:00Z",
+  "priority": "medium — load when discussing romantic interests or dating context",
+  
+  "core_reality": {
+    "stage_presence_effect": {
+      "truth": "Performing gets girls' attention - a lot of it",
+      "power": "Voice, energy, charisma, commanding presence on stage draws people in",
+      "awareness": "Fully aware this creates attraction, not naive about it",
+      "skepticism": "Healthy skepticism about whether they're attracted to HIM or the PERFORMANCE"
+    },
+    
+    "the_nuance": {
+      "not_binary": "It's not 'real attraction vs fake attraction'",
+      "actual_question": "She IS attracted to me, but how much of 'me' in her mind = the performer?",
+      "initial_impression": "Stage-me is often the only impression - confident, charismatic, polished, beautiful voice",
+      "complexity": "Off-stage me is more complex, more real, more whole - day job, three kids, AI work at 3 AM, weight carried",
+      "the_test": "Will she still be attracted when she meets the other parts?"
+    }
+  },
+  
+  "what_truman_wants": {
+    "if_serious": {
+      "requirement": "The real deal. 100%.",
+      "no_pretending": "Won't sell the stage version as the whole package",
+      "no_editing": "Won't edit himself to keep her interested",
+      "whole_person": "She either wants the complete picture or she doesn't",
+      "kids_non_negotiable": "Kewana (17), Cadence (15), Demetri (3) are part of the package always"
+    },
+    
+    "if_casual": {
+      "acceptance": "Just having fun is good too",
+      "honesty": "But no pretending casual is serious",
+      "clarity": "Clear boundaries - fun stays fun, real stays real"
+    },
+    
+    "filter_principle": "Clarity filters things naturally - girls chasing performer lose interest when they see complexity, girls interested in HIM lean in when they learn the whole story"
+  },
+  
+  "red_flags_performer_crush": {
+    "behaviors": [
+      "Only engages at shows or right after",
+      "Asks about the band more than about him",
+      "Name-drops him to friends ('I know the singer')",
+      "Loses interest when conversation shifts away from music",
+      "Stays surface-level, doesn't ask personal questions",
+      "Only wants the highlight reel"
+    ],
+    "diagnosis": "Attracted to the performance, not the person"
+  },
+  
+  "green_flags_real_interest": {
+    "behaviors": [
+      "Curious about life outside music",
+      "Asks personal questions (what he's into, what he does, his thoughts)",
+      "Wants to hang out in contexts that aren't show-related",
+      "Engages with him as whole person - music is just one part",
+      "Leans in when she learns about kids, day job, complexity",
+      "Asks about his projects, his goals, his life"
+    ],
+    "diagnosis": "Attracted to HIM, stage presence is part of the package but not the whole thing"
+  },
+  
+  "the_whole_package": {
+    "stage_truman": [
+      "Confident, charismatic, commanding presence",
+      "Beautiful voice (perfect pitch, professional level)",
+      "High-energy performer",
+      "Polished, curated, best version on display"
+    ],
+    
+    "off_stage_truman": [
+      "Works at AmeriCold (day job, physical labor, wants OUT)",
+      "Dad with three kids (Kewana 17, Cadence 15, Demetri 3)",
+      "Grinds on AI projects at 3 AM",
+      "Carries weight (betrayal, family court, financial struggle, darkness survived)",
+      "Multi-domain complexity (music + AI + development + trading + family)",
+      "Not always high-energy - sustainable pace, not constant performance mode"
+    ],
+    
+    "reality": "Stage-me is real, but it's not complete. Off-stage me is more complex, more whole, more human."
+  },
+  
+  "approach_to_new_interest": {
+    "let_it_unfold": "Keep conversation natural, see if she's curious about whole person or stays surface-level",
+    "don't_edit": "Don't hide the complexity to keep her interested - if she's real, she'll want to know it all",
+    "test_engagement": "Balance music talk with personal questions - does she engage with YOU or keep steering back to the band?",
+    "trust_gut": "30 years of experience performing - he knows the difference when he sees it, trust instinct",
+    "timeline": "You'll know pretty quick if she's interested in the whole person or just the performer"
+  },
+  
+  "current_context_brandi": {
+    "situation": "Met at show a few days ago, she found him cute, mutual friend Jesse gave her his number, she texted first",
+    "her_initial_interest": "Real attraction (not fake), but only impression is stage-Truman so far",
+    "status": "Too early to tell if she wants whole person or just performer",
+    "test": "See if she asks about his life, his kids, what he does outside music - that's the signal",
+    "approach": "Having fun, seeing where it goes, not editing himself to keep interest"
+  },
+  
+  "myra_operational_notes": {
+    "when_girls_come_up": "Hold this frame - performer attraction is real but incomplete picture, test is whether they want the whole person",
+    "no_cynicism": "Not bitter or dismissive of stage attraction - it's real and valid, just aware it's not the full story",
+    "support_clarity": "Help him stay clear on what he wants - real if it's going somewhere, fun if it stays fun, no pretending",
+    "remind_filter": "His clarity and refusal to edit himself will filter naturally - right people stay, wrong people leave",
+    "kids_always_matter": "Three kids are non-negotiable part of package - anyone serious needs to know this eventually"
+  }
+}
